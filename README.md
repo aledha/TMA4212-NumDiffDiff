@@ -16,6 +16,7 @@ two-dimensional heat distribution in anisotropic and isotropic materials.
 ![Isotropic case in an irregular domain](Isotropic case in an irregular domain.png)
 
 ### Exercise 3: Crank-Nicholson method to solve the Black-Scholes PDE
+
 ![Non-quadratic problem](Non-quadratic_problem.png)
 
 ### Exercise 2: Forward Euler Neumann
